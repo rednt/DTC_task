@@ -1,5 +1,6 @@
-let person = {nom:"Alex",adress:"Paris",age:25};
+let person = {nom:"Alex",adress:"Paris",age:25};//Q1
 
+//Q2
 let valeurs = [];
 let somme = 0;
 let moy = 0.0;
